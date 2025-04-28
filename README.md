@@ -1,0 +1,1 @@
+This site will be a recipe repository. I will learn how to publish a website and properly structure it with HTML. 
